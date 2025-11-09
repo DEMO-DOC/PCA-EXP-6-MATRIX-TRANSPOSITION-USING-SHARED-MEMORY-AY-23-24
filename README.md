@@ -2,8 +2,8 @@
 <h3>AIM:</h3>
 <h3>ENTER YOUR NAME : SANTHOSE AROCKIARAJ J</h3>
 <h3>ENTER YOUR REGISTER NO : 212224230248</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+<h3>EX. NO : 6</h3>
+<h3>DATE : 04/11/02025</h3>
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
